@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="popular_movies">POPULAR</string>
+    <string name="top_rated_movies">TOP-RATED</string>
+    <string name="Rating">Rating</string>
+    <string name="ReleaseDate">Release Date</string>
+    <string name="error_message">Failed to get results. Please try again</string>
+</resources>
